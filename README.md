@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MAXSwerve Java Template v2023.1
 
 See [the online changelog](https://github.com/REVrobotics/MAXSwerve-Java-Template/blob/main/CHANGELOG.md) for information about updates to the template that may have been released since you created your project.
@@ -20,3 +21,8 @@ To get started, make sure you have calibrated the zero offsets for the absolute 
 It is possible that this project will not work for your robot right out of the box. Various things like the CAN IDs, PIDF gains, chassis configuration, etc. must be determined for your own robot!
 
 These values can be adjusted in the `Constants.java` file.
+=======
+# limelight
+
+Repository storing our testbench code for the LIMELIGHT camera. We intend to include the device in our upcoming robot.
+>>>>>>> 3e9e6251ce9144d1f2c03d65b07955db3ff1d0d6
